@@ -1,5 +1,3 @@
-<https://Daria-Andreeva.github.io/rsschool-cv/cv>
-
 ## Daria Andreeva
 
 #### Junior Frontend Developer
@@ -9,6 +7,8 @@
 Phone: +7-911-028-0290
 
 Email : daria1.andreeva@gmail.com
+
+Telegram: @Daria_Andreeva
 
 ### About Me
 
@@ -27,8 +27,6 @@ Also I teach practical classes where our students learn the basics of current mo
 * <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' />
 * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt='Python'/>
 * <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='Linux' />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-Andreeva&layout=compact&theme=cobalt&hide_border=true" />
 
 ### Code example
 
