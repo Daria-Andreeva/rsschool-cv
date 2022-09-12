@@ -1,0 +1,127 @@
+:root {
+    --text-color1: whitesmoke;
+}
+
+html {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    }
+
+a, :visited,
+:hover,
+:active,
+:focus,
+:link {
+    text-decoration: none;
+    
+}
+
+.menu-link {
+    color: var(--text-color1);
+}
+
+nav {
+    position: fixed;
+    margin-left: 40%;
+    width: 60%;
+    z-index: 1;
+    color: var(--text-color1);
+    
+}
+
+#poster {
+    width: 100%;
+    z-index: -1;
+}
+
+#main-page {
+    position: relative;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    width: 25%;
+    height: 50px;
+}
+
+#watch-button {
+    top: 50%;
+    left: 10%;
+    
+       
+}
+
+#like-button {
+    left: 40%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#watch_link, #like_link {
+    text-align: center;       
+}
+
+span {
+    position: relative;
+    top: 7px;  
+       
+}
+
+
+
+
+#watch-text {
+    margin: auto;
+}
+
+#menu-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-items: flex-start;
+    position:sticky;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#about-div-1 {
+    margin-left: 5%;
+}
+
+#about-div-2 {
+    margin-bottom: 20%;
+}
+
+.about-img {
+    width: 85%;
+}
+
+.about-text {
+    width: 85%;
+    color: var(--text-color1);
+    text-align: justify;
+    
+}
+
+#about {
+    display: flex;    
+    justify-content: space-around;
+    align-items: center;    
+    width: 100%;
+}
+
+#about-img-1 {
+    margin-top: 0;
+}
+
+#about-img-2 {
+    margin-top: 75%;
+}
+
+#watch_link {
+    color: black;
+    text-align: center;
+    font-size: larger;
+
+}
+
