@@ -1,4 +1,5 @@
-## Daria Andreeva
+## Daria Andreeva 
+![JDfrSJaUlP41z4Vh](https://user-images.githubusercontent.com/71005168/189738909-7bcac0c3-fad5-4c90-b016-5a5a035b2098.jpg)
 
 #### Junior Frontend Developer
 
@@ -9,6 +10,8 @@ Phone: +7-911-028-0290
 Email : daria1.andreeva@gmail.com
 
 Telegram: @Daria_Andreeva
+
+Discord: Dascha (Wen_Xiao)#4305
 
 ### About Me
 
@@ -35,6 +38,8 @@ function solution(str, ending){
   return str.includes(ending, str.length - ending.length);
 }
 ```
+### Projects: 
+* [CV Markdown](https://github.com/Daria-Andreeva/rsschool-cv)
 
 ### Courses and certificates
 
